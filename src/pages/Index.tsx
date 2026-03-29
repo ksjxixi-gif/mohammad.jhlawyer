@@ -16,7 +16,7 @@ const Index = () => {
           <div className="flex items-center gap-3">
             <img src={scalesIcon} alt="" className="w-8 h-8" width={32} height={32} />
             <span className="text-gradient font-bold text-lg md:text-xl tracking-wide" style={{ fontFamily: "'Amiri', serif" }}>
-              المحامي محمد هاشم جبر مصطفى
+              المحامي محمد هاشم جبر القريوتي
             </span>
           </div>
 
@@ -81,7 +81,7 @@ const Index = () => {
               <h1 className="animate-float-up-delay-1 text-5xl md:text-6xl lg:text-7xl font-black leading-tight" style={{ fontFamily: "'Amiri', serif" }}>
                 <span className="text-gradient">محمد هاشم جبر</span>
                 <br />
-                <span className="text-foreground">مصطفى</span>
+                <span className="text-foreground">القريوتي</span>
               </h1>
 
               <p className="animate-float-up-delay-2 text-lg text-muted-foreground leading-relaxed max-w-lg" dir="ltr" style={{ textAlign: "right" }}>
@@ -118,7 +118,7 @@ const Index = () => {
                 <div className="w-72 h-80 md:w-80 md:h-96 rounded-2xl overflow-hidden border-2 border-primary/30 shadow-2xl shadow-primary/20">
                   <img
                     src={lawyerPhoto}
-                    alt="المحامي محمد هاشم جبر مصطفى"
+                    alt="المحامي محمد هاشم جبر القريوتي"
                     className="w-full h-full object-cover object-top"
                   />
                 </div>
@@ -280,7 +280,7 @@ const Index = () => {
               هل تحتاج استشارة قانونية؟
             </h2>
             <p className="text-lg text-muted-foreground max-w-xl mx-auto">
-              لا تتردد في التواصل مع المحامي محمد هاشم جبر مصطفى للحصول على المشورة القانونية المتخصصة.
+              لا تتردد في التواصل مع المحامي محمد هاشم جبر القريوتي للحصول على المشورة القانونية المتخصصة.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
               <a
@@ -332,7 +332,7 @@ const Index = () => {
             <div className="flex items-center gap-3">
               <img src={scalesIcon} alt="" className="w-7 h-7" loading="lazy" width={28} height={28} />
               <span className="text-gradient font-bold text-lg" style={{ fontFamily: "'Amiri', serif" }}>
-                المحامي محمد هاشم جبر مصطفى
+                المحامي محمد هاشم جبر القريوتي
               </span>
             </div>
             <div className="flex items-center gap-6 text-sm text-muted-foreground">
