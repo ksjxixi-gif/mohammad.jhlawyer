@@ -307,18 +307,18 @@ const Index = () => {
                 <MapPin className="w-5 h-5 inline-block ml-2 text-accent" />
                 موقع المكتب
               </h3>
-              <p className="text-muted-foreground">الأردن — عمّان — الشميساني</p>
+              <p className="text-muted-foreground">الأردن — عمّان —شارع طارق الرئيسي</p>
             </div>
             <div className="rounded-2xl overflow-hidden border border-border shadow-2xl shadow-primary/10">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13540.12!2d35.8577!3d31.9676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151ca1a2f2b5e4e7%3A0x3b3b7e84f2e47a3f!2sShmeisani%2C%20Amman!5e0!3m2!1sar!2sjo!4v1700000000000!5m2!1sar!2sjo"
+                src="https://www.google.com/maps?q=%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%20%E2%80%94%20%D8%B9%D9%85%D9%91%D8%A7%D9%86%20%E2%80%94%20%D8%B4%D8%A7%D8%B1%D8%B9%20%D8%B7%D8%A7%D8%B1%D9%82%20%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A&output=embed"
                 width="100%"
                 height="400"
                 style={{ border: 0 }}
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="موقع المكتب - الشميساني، عمّان"
+                title="موقع المكتب - شارع طارق الرئيسي، عمّان"
               />
             </div>
           </div>
